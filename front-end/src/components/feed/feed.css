@@ -1,0 +1,13 @@
+.feed{
+  flex:5.5
+}
+.feedWrapper{
+  padding: 20px;
+}
+.noPostSpan{
+  margin-top: 100px;
+  margin-left: 200px;
+  font-size: 50px;
+  font-weight: 500;
+  color: #555;
+}
